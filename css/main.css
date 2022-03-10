@@ -16,6 +16,7 @@ html, body {
 header {
     height: 80px;
     line-height: 80px;
+    background-color: cornflowerblue;
 }
 header div {
     width: 1280px;
